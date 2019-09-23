@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f42d1b6-415a-48c5-b7e6-0b4b9a3eb83c" name="Default Changelist" comment="" />
+    <list default="true" id="0f42d1b6-415a-48c5-b7e6-0b4b9a3eb83c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/events/view/GamecontrollViewClass.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/events.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/events/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/view/GameControllView.xib" beforeDir="false" afterPath="$PROJECT_DIR$/events/view/GameControllView.xib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/view/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/events/view/ViewController.swift" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Qxk7tSfJcj6dzn5J3NH7uODJJI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="events" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,7 +72,22 @@
       <workItem from="1569225630876" duration="16000" />
       <workItem from="1569225650596" duration="4330000" />
       <workItem from="1569236191221" duration="1459000" />
+      <workItem from="1569245236833" duration="828000" />
+      <workItem from="1569247380951" duration="837000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

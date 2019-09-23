@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		430B73C92338FFE1003D43FC /* GamecontrollViewClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430B73C82338FFE1003D43FC /* GamecontrollViewClass.swift */; };
 		813C01546D8018763EE9D873 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 813C0DFC3F2BE18E60651DAF /* ViewController.swift */; };
 		813C04B57DCF358ED898D848 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 813C058E768F8FFA68DDA405 /* Assets.xcassets */; };
 		813C058FDAB428EF3492E636 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 813C07CAA377712FB4023E41 /* LaunchScreen.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		430B73C82338FFE1003D43FC /* GamecontrollViewClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamecontrollViewClass.swift; sourceTree = "<group>"; };
 		813C0065A386700A24BEF149 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		813C03FCF7B8CF8F0065EB44 /* events.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = events.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		813C043AF208919508D44A50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				813C0DFC3F2BE18E60651DAF /* ViewController.swift */,
 				813C0F4B57BC57AF82DB4304 /* GameFieldView.swift */,
 				813C048DD762CA5FE0C6CD28 /* GameControllView.xib */,
+				430B73C82338FFE1003D43FC /* GamecontrollViewClass.swift */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			files = (
 				813C0839B658BD9FAD98D3DC /* events.xcdatamodeld in Sources */,
 				813C0C898B6EDEEB3DA2E42F /* AppDelegate.swift in Sources */,
+				430B73C92338FFE1003D43FC /* GamecontrollViewClass.swift in Sources */,
 				813C01546D8018763EE9D873 /* ViewController.swift in Sources */,
 				813C09B141E95646CBBBC559 /* GameFieldView.swift in Sources */,
 			);
