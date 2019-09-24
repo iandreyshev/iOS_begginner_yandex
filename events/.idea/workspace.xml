@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f42d1b6-415a-48c5-b7e6-0b4b9a3eb83c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/events/view/GamecontrollViewClass.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/events.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/events/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events/view/GameControllView.xib" beforeDir="false" afterPath="$PROJECT_DIR$/events/view/GameControllView.xib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events/view/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/events/view/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/SecondViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViewControllerDemo/ViewControllerDemo/SecondViewController.xib" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +79,7 @@
       <workItem from="1569236191221" duration="1459000" />
       <workItem from="1569245236833" duration="828000" />
       <workItem from="1569247380951" duration="837000" />
+      <workItem from="1569330109906" duration="254000" />
     </task>
     <servers />
   </component>
